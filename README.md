@@ -8,6 +8,8 @@ A library of lightweight Salesforce Lightning components that simplify developin
   <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
+[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/)
+
 ## Simple Admin component
 * simpleAdmin.cmp - this is a demo component that provides examples of how to use the other components. It's also a handy admin tool to quickly get information about your org.
 
